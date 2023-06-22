@@ -2,8 +2,7 @@
 #include <string.h>
 
 int glo = 76;
-// data_type func_name(parameter_type parametername){
-//     return value_of_type_data_type;
+// data_
 // }
 
 void newPrint(char * char1)
